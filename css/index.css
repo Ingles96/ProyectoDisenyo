@@ -1,0 +1,88 @@
+.menu{
+  text-align: right;
+}
+
+#myCarousel{
+  height: 400px;
+  color: #17a2b8;
+
+}
+
+
+.carousel-inner{
+    height: 400px;
+    color: #D4ECF5;
+    height: 450px;
+}
+
+/*JUMBOTRON COLOR DE FONDO Y TAMAÑO*/
+#jumbotronSlider{
+  background-color: #D4ECF5;
+  height: 570px;
+
+}
+
+#cajas{
+  background-color: #D4ECF5;
+  height: 233px;
+  text-align: center;
+}
+
+#cajas strong {
+font-size: 15px;
+}
+
+#cajas img {
+  height: 105px;
+}
+
+ /*FOOTER*/
+footer{
+	background-color: #17a2b8;
+  width: 100%;
+	font: bold 16px sans-serif;
+	padding: 5px 90px;
+	margin-top: 208px;
+}
+
+
+
+footer p.footer-links{
+	font-size:18px;
+	font-weight: bold;
+	color:  #ffffff;
+  text-align: center;
+}
+/*FOOTER DERECHA*/
+footer .footer-right{
+	float: right;
+	margin-top: 6px;
+	max-width: 180px;
+}
+
+/*FOOTER CENTRADO*/
+footer .footer-left{
+text-align: center;
+vertical-align: text-top;
+}
+
+/*LOGO A LA IZQUIERDA*/
+.footer-left img{
+  text-align: left;
+}
+
+#contact{
+  margin-top: 100px;
+}
+
+.tienda{
+  align:center;
+}
+
+.tienda h3 {
+  margin-top: 70px;
+}
+
+.tienda h1 {
+  margin-top: 70px;
+}
